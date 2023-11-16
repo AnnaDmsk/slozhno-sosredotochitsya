@@ -1,0 +1,27 @@
+:root {
+  --pink-color-1: #fff1f7;
+  --pink-color-2: #f1b2ce;
+  --pink-color-3: #ffc2e6;
+  --pink-color-4: #ff8dcb;
+
+  --purple-color-1: #db00ff;
+  --purple-color-2: #ff0070;
+  --purple-color-dark: #ff007040;
+
+  --black-color-1: #000028;
+  --grey-color-1: #353430;
+  --grey-color-2: #35343040;
+
+  --text-color: var(--pink-color-2, #f1b2ce);
+  --brand-color: var(--purple-color-1, #db00ff);
+  --secondary-color: var(--purple-color-2, #ff0070);
+  --secondary-color-2: var(--purple-color-dark, #ff007040);
+  --accent-color: var(--purple-color-2, #ff0070);
+  --highlight-color: var(--black-color-1, #000028);
+
+  --page-font-family: "IBM Plex mono", monospace;
+  --page-background-image: url("../images/cover-image.png");
+  --page-background-color: var(--black-color-1, #000028);
+
+  --rec-visibility: visible;
+}
