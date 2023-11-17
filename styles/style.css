@@ -58,7 +58,7 @@
   text-decoration: none;
 }
 
-.text-ink:hover {
+.text-link:hover {
   text-decoration: underline;
 }
 
@@ -115,6 +115,9 @@
 .title-decoration {
   color: var(--highlight-color, #000028);
   background: var(--accent-color, #ff0070);
+}
+.font {
+  font-weight: 400;
 }
 
 .section {
